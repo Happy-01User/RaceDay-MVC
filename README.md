@@ -1,7 +1,7 @@
 # RaceDay-MVC
 RaceDay application
 
-# RaceDay - Programming 2B PoE
+# RaceDay - Programming 3 PoE
 
 ## Project Overview
 RaceDay is a full-stack event management system for the South African road running, walking, and cycling community. It allows Organisers to create and manage events, and Participants to browse and enter events.
