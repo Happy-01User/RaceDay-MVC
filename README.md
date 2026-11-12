@@ -20,6 +20,7 @@ RaceDay application
 verify MVC Docker container
 
 #complete part3 README and video evidence
+https://youtu.be/2b3ah_o3lF8
 
 #add azure blob service
 # RaceDay - Programming 3 PoE
