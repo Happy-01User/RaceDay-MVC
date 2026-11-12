@@ -7,6 +7,7 @@ RaceDay application
 # Add role aware navigation
 # Build organiser dashboard
 # add event management views
+# add category management 
 
 
 # RaceDay - Programming 3 PoE
