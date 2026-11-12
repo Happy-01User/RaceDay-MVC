@@ -1,6 +1,8 @@
 # RaceDay-MVC
 RaceDay application
 
+#create RaceDay MVC Projects
+
 # RaceDay - Programming 3 PoE
 
 ## Project Overview
