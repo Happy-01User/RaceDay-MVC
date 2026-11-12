@@ -3,6 +3,7 @@ RaceDay application
 
 #create RaceDay MVC Projects
 # Configure MVC Api clienst session
+add MVC Registration and login
 
 # RaceDay - Programming 3 PoE
 
