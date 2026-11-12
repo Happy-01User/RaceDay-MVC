@@ -10,6 +10,8 @@ RaceDay application
 # add category management 
 # add organiser enrolment view
 
+# Add result entry
+
 
 # RaceDay - Programming 3 PoE
 
