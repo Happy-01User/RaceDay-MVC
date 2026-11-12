@@ -18,6 +18,9 @@ RaceDay application
 # add profile image
 
 verify MVC Docker container
+# screenshot of a working swagger
+![Uploading Screenshot_11-11-2026_105727_localhost.jpeg…]()
+
 
 #complete part3 README and video evidence
 https://youtu.be/2b3ah_o3lF8
