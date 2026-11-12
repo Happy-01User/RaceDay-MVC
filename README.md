@@ -5,6 +5,8 @@ RaceDay application
 # Configure MVC Api clienst session
 #add MVC Registration and login
 # Add role aware navigation
+# Build organiser dashboard
+
 
 # RaceDay - Programming 3 PoE
 
