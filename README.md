@@ -6,6 +6,7 @@ RaceDay application
 #add MVC Registration and login
 # Add role aware navigation
 # Build organiser dashboard
+# add event management views
 
 
 # RaceDay - Programming 3 PoE
