@@ -13,6 +13,7 @@ RaceDay application
 # Add result entry
 # Add participant browser
 # Add My events
+# Add my results
 
 
 # RaceDay - Programming 3 PoE
