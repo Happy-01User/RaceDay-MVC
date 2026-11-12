@@ -8,6 +8,7 @@ RaceDay application
 # Build organiser dashboard
 # add event management views
 # add category management 
+# add organiser enrolment view
 
 
 # RaceDay - Programming 3 PoE
