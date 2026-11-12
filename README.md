@@ -17,6 +17,8 @@ RaceDay application
 # add participant profile
 # add profile image
 
+verify MVC Docker container
+
 #add azure blob service
 # RaceDay - Programming 3 PoE
 
